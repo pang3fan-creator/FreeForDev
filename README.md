@@ -62,3 +62,7 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 [SourceForge](https://sourceforge.net) - Free, secure and fast downloads from the largest Open Source applications and software directory.
 
 [Gitea](https://www.gitea.com/) - Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go.
+
+# Online Tools
+
+[ExtractKeywords](https://extractkeywords.com) - Free keyword extractor. Paste text or a URL and get the most relevant keywords with word frequency and density in seconds. No signup required.
