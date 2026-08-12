@@ -62,3 +62,7 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 [SourceForge](https://sourceforge.net) - Free, secure and fast downloads from the largest Open Source applications and software directory.
 
 [Gitea](https://www.gitea.com/) - Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go.
+
+# Online Tools
+
+[TrySchedule](https://tryschedule.com) - Free online schedule builder with a drag-and-drop interface. Create weekly schedules in minutes and export as PNG or PDF. No signup required.
